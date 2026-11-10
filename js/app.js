@@ -372,3 +372,5 @@ document.addEventListener('DOMContentLoaded', () => {
   renderActiveVideoUI();
   renderQueueUI();
 });
+
+// Nice Work :)
